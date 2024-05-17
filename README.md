@@ -23,6 +23,11 @@
   
     2023.04 ~ 활동중
 
+  진행 한 행사목록
+
+    - [Flutter with AI 2024](https://festa.io/events/5090)
+        - 발표한 세션: [FE 에서 TDD 시작해보기](https://docs.google.com/presentation/d/1QtnwuQvwlIQpIWqXPSBIQ1Iu7nNaxu_wXc6dNT3A8PU/edit#slide=id.p3)
+
 * [글또](https://geultto.github.io/blog/geultto-summary/) 9기
 
     2023.12 ~ 2023.05
