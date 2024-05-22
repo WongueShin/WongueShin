@@ -21,7 +21,7 @@
 
 * [Flutter seoul](https://www.meetup.com/ko-KR/flutter-seoul/) organizer
   
-    2023.04 ~ 활동중
+    2024.04 ~ 활동중
 
   진행 한 행사목록
 
@@ -30,7 +30,7 @@
 
 * [글또](https://geultto.github.io/blog/geultto-summary/) 9기
 
-    2023.12 ~ 2023.05
+    2023.12 ~ 2024.05
 
     - 큐레이션 선정:
       
