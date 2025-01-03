@@ -28,6 +28,16 @@
     - [Flutter with AI 2024](https://festa.io/events/5090)
         - 발표한 세션: [FE 에서 TDD 시작해보기](https://docs.google.com/presentation/d/1QtnwuQvwlIQpIWqXPSBIQ1Iu7nNaxu_wXc6dNT3A8PU/edit#slide=id.p3)
 
+    - [Future Flutter](https://festa.io/events/5704)
+      - 발표한 세션: [어느날 앱이 터졌을 때](https://docs.google.com/presentation/d/1XWOH0jg9M8YJFXxMvGG2H9rQsQrRzcumdEG-2FnMcEU/edit?usp=sharing)
+
+    - 튜링의 사과 월간 커뮤니티 강의
+      - [10월](https://velog.io/@turingapple/%ED%8A%9C%EB%A7%81%EC%9D%98-%EC%82%AC%EA%B3%BC-X-%ED%94%8C%EB%9F%AC%ED%84%B0-%EC%84%9C%EC%9A%B8-%EC%9B%94%EA%B0%84-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%EA%B0%95%EC%9D%98-4)
+        - [어떤 아키텍처 디자인 패턴이 좋은가?](https://www.figma.com/slides/6213nXoZxP1KNWj98gLApY/%ED%8A%9C%EB%A7%81%EC%9D%98-%EC%82%AC%EA%B3%BC-%EB%B0%9C%ED%91%9C?node-id=1-23&t=8hs9Yr46AIYkJKnS-1)
+      - [11월](https://velog.io/@turingapple/%ED%8A%9C%EB%A7%81%EC%9D%98-%EC%82%AC%EA%B3%BC-X-%ED%94%8C%EB%9F%AC%ED%84%B0-%EC%84%9C%EC%9A%B8-%EC%9B%94%EA%B0%84-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%EA%B0%95%EC%9D%98-5)
+        - [Anemic Domain model 을 탈출하자! 내 프로젝트 수혈하기](https://www.figma.com/slides/kHccLWDXi35oZ4auNJgIe8/Anemic-Domain-Model-%EC%9D%84-%ED%83%88%EC%B6%9C%ED%95%98%EC%9E%90?node-id=1-520&t=TDlCSpuvsHvzuOuh-1)
+    - [Devfest 2024 songdo](https://festa.io/events/6324)
+      - [동료가 컨벤션을 자꾸 까먹는다면](https://docs.google.com/presentation/d/111KhFbUVmchXp-3gXjfsvPuxF3mGgGVadwyFZsJjnSA/edit?usp=sharing)
 * [글또](https://geultto.github.io/blog/geultto-summary/) 8 ~ 9기
 
     2023.02 ~ 2024.05
