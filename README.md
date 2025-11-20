@@ -59,7 +59,7 @@
 
 ### 외부링크
 
-* https://velog.io/@wongyu_shin
+* [velog.io](https://velog.io/@wongue_shin/posts)
 
 ### 교육
 
