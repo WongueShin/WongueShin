@@ -1,4 +1,4 @@
-# WongueShin
+# WongyuShin
 
 * email: won7963kr@gmail.com
 
@@ -59,7 +59,7 @@
 
 ### 외부링크
 
-* https://velog.io/@wongue_shin
+* https://velog.io/@wongyu_shin
 
 ### 교육
 
